@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PINEDA\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\PINEDA\Documents\Yamba-master\Yamba 2\app4\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-fb3744b33c1c8aa9bfc68989b0edbf3aea27eccf.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Downloads\Yamba-master (4)\Yamba-master\Yamba 6\app4\libs\yambaclientlib.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="564ffd3f1dc6779da46f36e4cb78854ee45e6a1b">
+        <dex dex="C:\Users\PINEDA\Downloads\Yamba-master (4)\Yamba-master\Yamba 6\app4\build\intermediates\pre-dexed\debug\yambaclientlib-a6e1f1fb1b1304a21348ca0fe4cece601f55a381.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Documents\Yamba-master\Yamba 2\app4\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\PINEDA\Documents\Yamba-master\Yamba 2\app4\build\intermediates\pre-dexed\debug\classes-ca1483e7a5b1c1f82e76827d23cf29424b841bc0.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Downloads\Yamba-master (1)\Yamba-master\Yamba 6\app4\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\PINEDA\Downloads\Yamba-master (1)\Yamba-master\Yamba 6\app4\build\intermediates\pre-dexed\debug\classes-9755d23a4a7b4e59b6764b7f254ff6f4420aade7.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Documents\Yamba-master\Yamba 2\app4\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\PINEDA\Documents\Yamba-master\Yamba 2\app4\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-70de16395f631a8b3f60b60d53c46038f0f6c478.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Downloads\Yamba-master (1)\Yamba-master\Yamba 6\app4\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\PINEDA\Downloads\Yamba-master (1)\Yamba-master\Yamba 6\app4\build\intermediates\pre-dexed\debug\classes-1b9cf8106f28e220408fbc57f28330dd8b7f54e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Downloads\Yamba-master (4)\Yamba-master\Yamba 6\app4\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\PINEDA\Downloads\Yamba-master (4)\Yamba-master\Yamba 6\app4\build\intermediates\pre-dexed\debug\classes-f4202a2559a1d7222208b2e540f534835bbb57cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Downloads\Yamba-master (1)\Yamba-master\Yamba 6\app4\libs\yambaclientlib.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="564ffd3f1dc6779da46f36e4cb78854ee45e6a1b">
+        <dex dex="C:\Users\PINEDA\Downloads\Yamba-master (1)\Yamba-master\Yamba 6\app4\build\intermediates\pre-dexed\debug\yambaclientlib-1ccf9a63e10c7fc8448fe32fc84182d7bff5f225.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Downloads\Yamba-master (4)\Yamba-master\Yamba 6\app4\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\PINEDA\Downloads\Yamba-master (4)\Yamba-master\Yamba 6\app4\build\intermediates\pre-dexed\debug\classes-685379ae168acc10f33a6ffa9999e0d377bbcd2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Documents\Yamba-master\Yamba 2\app4\libs\yambaclientlib.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="564ffd3f1dc6779da46f36e4cb78854ee45e6a1b">
+        <dex dex="C:\Users\PINEDA\Documents\Yamba-master\Yamba 2\app4\build\intermediates\pre-dexed\debug\yambaclientlib-c413c376b54a34af9227cc54ecdbbc88eec5c737.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Documents\Yamba-master\Yamba 2\app4\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\PINEDA\Documents\Yamba-master\Yamba 2\app4\build\intermediates\pre-dexed\debug\classes-7d60a9cfd6217edfefb5958df014b42994a866e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Downloads\Yamba-master (4)\Yamba-master\Yamba 6\app4\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\PINEDA\Downloads\Yamba-master (4)\Yamba-master\Yamba 6\app4\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-ef6ba988c0b67ec130801dc32d848e10de8517a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\PINEDA\Downloads\Yamba-master (1)\Yamba-master\Yamba 6\app4\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\PINEDA\Downloads\Yamba-master (1)\Yamba-master\Yamba 6\app4\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-41acc644e5089d37830c28086b5f2656ec5acd28.jar" />
+    </item>
+
+</items>

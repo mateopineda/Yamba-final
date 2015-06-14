@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Yamba final/app4/build/intermediates/pre-dexed/debug/yambaclientlib-a6e1f1fb1b1304a21348ca0fe4cece601f55a381.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Yamba final/app4/build/intermediates/pre-dexed/debug/classes-f4202a2559a1d7222208b2e540f534835bbb57cf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Yamba final/app4/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-fb3744b33c1c8aa9bfc68989b0edbf3aea27eccf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Yamba final/app4/build/intermediates/pre-dexed/debug/classes-685379ae168acc10f33a6ffa9999e0d377bbcd2c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Yamba final/app4/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ef6ba988c0b67ec130801dc32d848e10de8517a0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
